@@ -1,6 +1,8 @@
 ![alt text](https://github.com/MarkSimos/MicrosoftSecurity/blob/master/Azure%20Security%20Compass%201.1/Azure%20Security%20Compass%20v1.1%20-%20PNG.png "Logo Title Text 1")
 
 These are the downloadable files included in the Azure Security Compass version 1.1
+> Click the Download button on each page to download them
+
 
 ## Main Presentation
 [Azure Security Compass v1.1 - Presentation.pptx](https://github.com/MarkSimos/MicrosoftSecurity/blob/master/Azure%20Security%20Compass%201.1/Azure%20Security%20Compass%20v1.1%20-%20Presentation.pptx "Main Presentation")
