@@ -6,7 +6,7 @@ These are the downloadable files included in the Azure Security Compass version 
 ## Azure Security Compass v1.1 - Main Presentation
 [Azure Security Compass - Presentation Slides](https://github.com/MarkSimos/MicrosoftSecurity/raw/master/Azure%20Security%20Compass%201.1/Azure%20Security%20Compass%20v1.1%20-%20Presentation.pptx "Presentation Slides")
 
-[Azure Security Compass - YouTube Videos](https://www.youtube.com/watch?v=NwovfHZEdqY&list=PLLasX02E8BPCWLfOxUXQjriXLRHVwwbCg&index=1 "YouTube Videos")
+[Azure Security Compass - YouTube Videos](https://aka.ms/azuresecuritycompass-video "YouTube Videos")
 
  _Context and Detailed Best Practices_
 
